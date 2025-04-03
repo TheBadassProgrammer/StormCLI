@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StormCLI ⛅</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <canvas id="matrix-bg"></canvas>
+    
+    <div class="container">
+        <div class="terminal-header">
+            <div class="controls">
+                <div class="control close"></div>
+                <div class="control minimize"></div>
+                <div class="control maximize"></div>
+            </div>
+            <div class="title">StormCLI ⛅</div>
+        </div>
+
+        <div class="terminal-content">
+            <div id="youtube-player"></div>
+
+            <p class="terminal-prompt">$ Enter City:</p>
+            <input type="text" id="cityInput" placeholder="Type a city and press Enter..." autofocus>
+            
+            <div id="weatherOutput"></div>
+            
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
