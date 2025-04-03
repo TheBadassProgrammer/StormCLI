@@ -107,7 +107,7 @@ MIT License
 
 ## Author
 
-Your Name - [Your Website](https://yourwebsite.com)
+Nitin Tripathi - [Your Website](https://nitin-ka-portfolio.vercel.app/)
 
 ## Acknowledgments
 
