@@ -17,7 +17,7 @@ StormCLI is a stylish, terminal-inspired weather application that provides real-
 
 ## Demo
 
-[View Live Demo](https://TheBadassProgrammer.github.io/stormcli)
+[View Live Demo]([https://TheBadassProgrammer.github.io/stormcli](https://storm-cli.vercel.app/))
 
 ## Technologies Used
 
